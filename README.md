@@ -3,7 +3,7 @@
 
 **This repo is to hold the links to the Ladies of Landsat Manuscript Monday series.**
 
-Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently published, cutting-edge research led by gender minorities in the field of remote sensing.
+Manuscript Monday is a weekly series on [Twitter](https://twitter.com/search?q=%23lolmanuscriptmonday&src=typed_query), [LinkedIn](https://www.linkedin.com/search/results/all/?keywords=%23lolmanuscriptmonday&origin=GLOBAL_SEARCH_HEADER&sid=B1w), and [Mastodon](https://mastodon.social/tags/LoLManuscriptMonday) that features recently published, cutting-edge research led by gender minorities in the field of remote sensing.
  
 <p align="center">
   <img width="300" height="300" src="lol.jpg?w=300&h=300">
